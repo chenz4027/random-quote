@@ -39,6 +39,8 @@ button{
 	font-size: 50%;
 }
 
+button:focus {outline:0 !important;}
+
 .maggie{
 	color: white;
 	text-align: center;
