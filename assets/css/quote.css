@@ -1,0 +1,58 @@
+body{
+	background-color: teal;
+	color: teal;
+	font-family: 'Raleway', sans-serif;
+}
+
+div{
+	/*margin: 50px 90px 0px 50px;*/
+	background: white;
+	width: 60%;
+	height: 40%;
+	margin: 0 auto;
+	margin-top: 8%;
+	padding: 5%;
+	border-radius: 1%;
+
+
+}
+
+h1{
+	font-weight: normal;
+	font-size: 28px;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: teal;
+}
+
+
+
+
+button{
+	border: none;
+	color: white;
+	background: teal;
+	float: right;
+	font-size: 50%;
+}
+
+.maggie{
+	color: white;
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+.quotation{
+
+}
+
+.transition{
+	transition: all 2s;
+}
+
